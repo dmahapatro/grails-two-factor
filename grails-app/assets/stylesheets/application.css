@@ -13,3 +13,7 @@
 *= require mobile
 *= require_self
 */
+
+.duo-setup {
+    padding: 10px 10px 10px 300px;
+}

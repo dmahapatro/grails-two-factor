@@ -6,6 +6,6 @@ import org.springframework.security.access.annotation.Secured
 class SampleController {
 
     def index() {
-        render "Login Success"
+        redirect uri: '/landing'
     }
 }
